@@ -1,6 +1,6 @@
-# VariantCall
+# ctDNASomaticVariantCall
 
-Linux, OSX: [![Build Status](https://travis-ci.org/zhmz90/VariantCall.jl.svg?branch=master)](https://travis-ci.org/zhmz90/VariantCall.jl)
+Linux, OSX: [![Build Status](https://travis-ci.org/zhmz90/ctDNASomaticVariantCall.jl.svg?branch=master)](https://travis-ci.org/zhmz90/ctDNASomaticVariantCall.jl)
 
 You can star this repository to help other people find it if this package is useful for you.
 

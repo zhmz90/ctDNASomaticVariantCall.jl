@@ -1,4 +1,4 @@
-module VariantCall
+module ctDNASomaticVariantCall
 
 # package code goes here
 

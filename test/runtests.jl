@@ -1,4 +1,4 @@
-using VariantCall
+using ctDNASomaticVariantCall
 using Base.Test
 
 # write your own tests here
