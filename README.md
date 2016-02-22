@@ -22,11 +22,19 @@ You can star this repository to help other people find it if this package is use
 - new variant call method
 
 ### Awesome tools
+
+###### Simulate somatic variants data
 - [BAMSurgeon](https://github.com/adamewing/bamsurgeon) for accurate tumor genome simulation
 
-### Awesome insights
+###### Variant Caller
+- [Varscan2](http://varscan.sourceforge.net/)
+- [MuTect](https://www.broadinstitute.org/cancer/cga/mutect)
+- [Strelka](https://sites.google.com/site/strelkasomaticvariantcaller)
+- [somatic-sniper](https://github.com/genome/somatic-sniper)
 
-- [lh3](https://www.biostars.org/p/19104/)
+### Awesome insights
+- [Validating multiple cancer variant callers and prioritization in tumor-only samples](https://bcbio.wordpress.com/tag/mutect/)
+- [lh3-reply on Biostar](https://www.biostars.org/p/19104/)
 
 ### Simulate variant data to benchmark cfDNA somatic variant call
 - just directly add mutations similar depth with gDNA errors to the cfDNA as true positive part of ground truth
