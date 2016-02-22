@@ -10,8 +10,9 @@ You can star this repository to help other people find it if this package is use
 ### Questions
 - Are somatic mutations related with its context?
 
-### New Idea and Discovery
+### New Ideas and Discoveries
 - Can we tune the parameters of variant call software to fit simulated data and get better performance on read data?
+- mutation calls should be made by aggregating multiple algorithms
 - the importance of context-specific errors in sequencing
 
 ### RoadMap
