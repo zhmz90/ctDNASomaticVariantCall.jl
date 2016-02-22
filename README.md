@@ -7,6 +7,9 @@ You can star this repository to help other people find it if this package is use
 ### Focus
 - cancer genomes in blood
 
+### Questions
+- Are somatic mutations related with its context?
+
 ### RoadMap
 - massively parallal simulate NGS reads or somatic variant
 - benchmark existing variant call software 
