@@ -13,6 +13,7 @@ You can star this repository to help other people find it if this package is use
 ### RoadMap
 - massively parallal simulate NGS reads or somatic variant
 - benchmark existing variant call software 
+- tuning parameters to see whether accuracy will improve
 - new variant call method
 
 ### Awesome tools
