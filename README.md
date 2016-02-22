@@ -10,12 +10,16 @@ Linux, OSX: [![Build Status](https://travis-ci.org/zhmz90/VariantCall.jl.svg?bra
 - benchmark existing variant call software 
 - new variant call method
 
-### relevant awesome tools
+### Awesome tools
 - [BAMSurgeon](https://github.com/adamewing/bamsurgeon) for accurate tumor genome simulation
 
-### awesome view about somatic mutation variant call
+### Awesome insights
 
 - [lh3](https://www.biostars.org/p/19104/)
 
-### Reference
+### Simulate variant data to benchmark cfDNA somatic variant call
+- just directly add mutations similar depth with gDNA errors to the cfDNA as true positive 
+- add sequence or alignment errors in gDNA to cfDNA as false positive
+
+### References
 - [Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection](http://www.nature.com/nmeth/journal/v12/n7/pdf/nmeth.3407.pdf)
