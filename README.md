@@ -8,7 +8,7 @@ You can star this repository to help other people find it if this package is use
 - cancer genomes in blood
 
 ### RoadMap
-- simulate NGS reads OR are they can be simulated?
+- massively parallal simulate NGS reads or somatic variant
 - benchmark existing variant call software 
 - new variant call method
 
