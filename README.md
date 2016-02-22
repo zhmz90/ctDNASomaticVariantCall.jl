@@ -16,3 +16,6 @@ Linux, OSX: [![Build Status](https://travis-ci.org/zhmz90/VariantCall.jl.svg?bra
 ### awesome view about somatic mutation variant call
 
 - [lh3](https://www.biostars.org/p/19104/)
+
+### Reference
+- [Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection](http://www.nature.com/nmeth/journal/v12/n7/pdf/nmeth.3407.pdf)
