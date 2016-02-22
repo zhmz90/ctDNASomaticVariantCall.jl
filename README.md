@@ -2,7 +2,7 @@
 
 Linux, OSX: [![Build Status](https://travis-ci.org/zhmz90/VariantCall.jl.svg?branch=master)](https://travis-ci.org/zhmz90/VariantCall.jl)
 
-You can star this repository to help other people find it if this package is useful to you.
+You can star this repository to help other people find it if this package is useful for you.
 
 ### Focus
 - cancer genomes in blood
@@ -14,6 +14,7 @@ You can star this repository to help other people find it if this package is use
 - Can we tune the parameters of variant call software to fit simulated data and get better performance on read data?
 - mutation calls should be made by aggregating multiple algorithms
 - the importance of context-specific errors in sequencing
+- Sharp ratio aka rist adjusted return will be helpful to ensemble variant callers based on performance of various parameters to generalize to real datasets
 
 ### RoadMap
 - massively parallal simulate NGS reads or somatic variant
@@ -31,6 +32,7 @@ You can star this repository to help other people find it if this package is use
 - [MuTect](https://www.broadinstitute.org/cancer/cga/mutect)
 - [Strelka](https://sites.google.com/site/strelkasomaticvariantcaller)
 - [somatic-sniper](https://github.com/genome/somatic-sniper)
+- [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)
 
 ### Awesome insights
 - [Validating multiple cancer variant callers and prioritization in tumor-only samples](https://bcbio.wordpress.com/tag/mutect/)
