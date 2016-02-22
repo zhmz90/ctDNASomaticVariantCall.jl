@@ -10,6 +10,10 @@ You can star this repository to help other people find it if this package is use
 ### Questions
 - Are somatic mutations related with its context?
 
+### New Idea and Discovery
+- Can we tune the parameters of variant call software to fit simulated data and get better performance on read data?
+- the importance of context-specific errors in sequencing
+
 ### RoadMap
 - massively parallal simulate NGS reads or somatic variant
 - benchmark existing variant call software 
