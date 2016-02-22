@@ -2,6 +2,9 @@
 
 Linux, OSX: [![Build Status](https://travis-ci.org/zhmz90/VariantCall.jl.svg?branch=master)](https://travis-ci.org/zhmz90/VariantCall.jl)
 
+### Focus
+	cancer genomes in blood
+
 ### RoadMap
 - simulate NGS reads VS are they can be simulated?
 - benchmark existing variant call software 
