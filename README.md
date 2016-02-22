@@ -2,6 +2,8 @@
 
 Linux, OSX: [![Build Status](https://travis-ci.org/zhmz90/VariantCall.jl.svg?branch=master)](https://travis-ci.org/zhmz90/VariantCall.jl)
 
+You can star this repository to help other people find it if this package is useful to you.
+
 ### Focus
 - cancer genomes in blood
 
