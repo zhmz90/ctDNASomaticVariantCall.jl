@@ -13,7 +13,7 @@ You can star this repository to help other people find it if this package is use
 ### New Ideas and Discoveries
 - Can we tune the parameters of variant call software to fit simulated data and get better performance on read data?
 - mutation calls should be made by aggregating multiple algorithms
-- the importance of context-specific errors in sequencing
+- the importance of context-specific errors in sequencing and what about somatic mutation?
 - Sharp ratio aka rist adjusted return will be helpful to ensemble variant callers based on performance of various parameters to generalize to real datasets
 
 ### RoadMap
@@ -24,10 +24,12 @@ You can star this repository to help other people find it if this package is use
 
 ### Awesome tools
 
-###### Simulate somatic variants data
-- [BAMSurgeon](https://github.com/adamewing/bamsurgeon) for accurate tumor genome simulation
+##### Simulate somatic variants data
+- [BAMSurgeon](https://github.com/adamewing/bamsurgeon) for accurate tumor genome simulation: directly adding synthetic mutations to existing reads
+- [wgsim: not maintained](https://github.com/lh3/wgsim/) is a small tool for simulating sequence reads from a reference genome which only approximate sequencing error profiles. 
+- adimixture of polymorphic sites between existing BAM sequence alignment files
 
-###### Variant Caller
+##### Variant Caller
 - [Varscan2](http://varscan.sourceforge.net/)
 - [MuTect](https://www.broadinstitute.org/cancer/cga/mutect)
 - [Strelka](https://sites.google.com/site/strelkasomaticvariantcaller)
