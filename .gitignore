@@ -3,3 +3,10 @@
 *.jl.mem
 *.jl~
 *.jl#
+*.bam
+*.pileup
+*.gz
+*.csv
+*.tsv
+*.mpileup
+data/*

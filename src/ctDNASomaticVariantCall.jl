@@ -1,5 +1,11 @@
 module ctDNASomaticVariantCall
 
-# package code goes here
+
+export Simulator
+include("Simulator/Simulator.jl")
+
+include("bam.jl")
+
+
 
 end # module

@@ -9,6 +9,8 @@ You can star this repository to help other people find it if this package is use
 
 ### Questions
 - Are somatic mutations related with its context?
+- What is the difference for various somatic variant callers?
+- 
 
 ### New Ideas and Discoveries
 - Can we tune the parameters of variant call software to fit simulated data and get better performance on read data?
@@ -34,6 +36,7 @@ You can star this repository to help other people find it if this package is use
 - [MuTect](https://www.broadinstitute.org/cancer/cga/mutect)
 - [Strelka](https://sites.google.com/site/strelkasomaticvariantcaller)
 - [somatic-sniper](https://github.com/genome/somatic-sniper)
+- [RAID]()
 - [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)
 
 ### Awesome insights
