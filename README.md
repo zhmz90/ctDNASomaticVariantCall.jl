@@ -32,6 +32,8 @@ You can star this repository to help other people find it if this package is use
 - adimixture of polymorphic sites between existing BAM sequence alignment files
 
 ##### Variant Caller
+- [Biostars list](https://www.biostars.org/p/19104/)
+
 - [Varscan2](http://varscan.sourceforge.net/)
 - [MuTect](https://www.broadinstitute.org/cancer/cga/mutect)
 - [Strelka](https://sites.google.com/site/strelkasomaticvariantcaller)
