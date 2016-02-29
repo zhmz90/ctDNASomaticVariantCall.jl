@@ -44,6 +44,12 @@ You can star this repository to help other people find it if this package is use
 ### Awesome insights
 - [Validating multiple cancer variant callers and prioritization in tumor-only samples](https://bcbio.wordpress.com/tag/mutect/)
 
+###### [Empirical Bayesian Approach to High-Sensitivity Variant Calling in Circulating Tumor DNA Samples](https://www.amstat.org/meetings/jsm/2015/onlineprogram/AbstractDetails.cfm?abstractid=317363)
+
+> The detection of circulating tumor DNA (ctDNA) in blood samples via targeted sequencing of genes of interest is a promising approach for cancer diagnosis and biomarker development. Since most tumor-associated mutations appear as very low frequency variants in the ctDNA sequencing data, a highly sensitive and specific analysis method is critical to distinguish true mutations from noise-driven, low frequency false positives. This requires accurate estimates of background error rates, which vary significantly by genomic position. We propose a hierarchical beta-binomial model which combines an estimate of substitution type-specific prior distribution for the error rate with observed variant calls in a set of normal samples to yield a full set of position-specific posterior distributions. By employing a series of spike-ins of synthetic DNA molecules containing known variants at low frequency, we showed that our analytic approach enables reliable variant detection even at very low frequencies while still controlling the false positive rate. Our approach is a promising tool for the detection, characterization, and monitoring of human tumors via ctDNA. 
+
+
+
 ###### [lh3-reply on Biostar](https://www.biostars.org/p/19104/)
 
 > Perhaps you should read my samtools paper, where I did an experiment on finding rare differences between data from different sources but for the same individual.
