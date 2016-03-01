@@ -10,3 +10,6 @@
 *.tsv
 *.mpileup
 data/*
+*.pileup
+*.sam
+*.txt
